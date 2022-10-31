@@ -16,4 +16,6 @@ const countCharacters = () => {
 textArea.addEventListener("input", countCharacters);
 
 
+//Console Log
+console.log("Thanks for playing!")
 

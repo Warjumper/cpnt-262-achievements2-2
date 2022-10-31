@@ -3,6 +3,8 @@
 
 #### By Jesse H
 
+## GitHub pages link - 
+
 ### Code Attributions;
 - Great tutorial help from https://stackabuse.com/character-counter-for-text-areas-with-vanilla-javascript/
 - preventDefault taken from previous project (by me).
