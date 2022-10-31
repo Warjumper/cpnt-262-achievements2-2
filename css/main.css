@@ -1,0 +1,36 @@
+h1 {
+  font-size: 36px;
+  color: #555;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+  padding-top: 40px;
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: antiquewhite;
+  background-color: black;
+}
+
+input, textarea {
+  display: block;
+  margin: auto;
+}
+
+button {
+  padding: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+  color: white;
+}
+
+textarea {
+  resize: none;
+}

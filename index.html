@@ -1,14 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/main.css">
-  <script src="js/myscripts.js" defer></script>
-  <title>Document</title>
+  <script src="js/character-counter.js" defer></script>
+  <title>Text area character counter</title>
 </head>
+
 <body>
-  
+  <main>
+    <h1>Character Bio Page</h1>
+    <label for="tweet">Tell us about your character:</label>
+
+    <textarea id="textBio" name="bio" rows="15" cols="40" placeholder="Please use 400 characters or less"
+      maxlength="400"></textarea>
+
+    <span id="textCounter">0/400</span><br>
+
+    <button type="submit" class="button">Submit</button>
+
+  </main>
 </body>
+
 </html>
