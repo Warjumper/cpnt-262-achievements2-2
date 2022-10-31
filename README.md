@@ -3,7 +3,7 @@
 
 #### By Jesse H
 
-## GitHub pages link - 
+## GitHub pages link - https://warjumper.github.io/cpnt-262-achievements2-2/
 
 ### Code Attributions;
 - Great tutorial help from https://stackabuse.com/character-counter-for-text-areas-with-vanilla-javascript/
